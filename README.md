@@ -9,7 +9,7 @@ Vue typescript 移动端开发模板
 6. vue-validator进行参数校验
 7. 集成lodash、dayjs、store2、vue-sticky
 8. 全局过滤器和自定义指令
-8. lesss
+8. less
 
 ### 运行
 ```
